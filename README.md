@@ -4,6 +4,7 @@ A custom TCP-based file sharing protocol built in Python, implementing core conc
 
 ---
 
+
 ## Project Overview
 
 This project was developed as part of a Computer Networks course to demonstrate practical implementation of network communication concepts. The system allows a **macOS machine (server)** and a **Windows machine (client)** to share files over a local Wi-Fi network using raw TCP sockets.
